@@ -7,7 +7,7 @@
     "homepage": "",
     "repository": {
         "type": "git",
-        "url": "https://github.com/10page/tp-lip.git"
+        "url": "https://github.com/10page-git/tp-lib.git"
     },
     "main": "dist/latest/main.min.js",
     "style": "dist/latest/main.min.css",
